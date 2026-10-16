@@ -1,0 +1,29 @@
+# Word document (binary file, not suitable for version control)
+Course_Guidance_Assistant.docx
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+venv/
+.venv/
+env/
+.env/
+
+# Environment variables / secrets
+.env
+.env.*
+
+# Streamlit config
+.streamlit/
+
+# Distribution / packaging
+*.egg-info/
+dist/
+build/
+
+# OS files
+.DS_Store
+Thumbs.db
